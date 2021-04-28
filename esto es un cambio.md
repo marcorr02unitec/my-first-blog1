@@ -7,5 +7,9 @@ cambio
 
 master
 rama
+<<<<<<< HEAD
 
 master 2
+=======
+rama2
+>>>>>>> rama
