@@ -4,5 +4,4 @@ esto es el cambio principal
 
 cambio
 
-simon
 
